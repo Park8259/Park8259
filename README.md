@@ -1,5 +1,5 @@
 ## Introduction👋
-안녕하세요:joy:
+안녕하세요 :joy:
 
 ## Career
 영남대학교 컴퓨터공학과 재학 
