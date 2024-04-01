@@ -2,7 +2,7 @@
 안녕하세요 :hear_no_evil:
 
 ## Career
-영남대학교:kr: 컴퓨터공학과 재학 
+영남대학교 :kr: 컴퓨터공학과 재학 
 
 
 ## Links
