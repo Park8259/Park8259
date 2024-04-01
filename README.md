@@ -1,5 +1,15 @@
-### Hi there 👋
+## Introduction👋
+영남대학교 컴퓨터공학과 재학  
 
+
+## Career
+
+
+
+## Links
+
+
+## Project
 <!--
 **Park8259/Park8259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
