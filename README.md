@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome%20to%20PARK's%20Github&fontSize=60)
 ## Introduction👋
 안녕하세요 :hear_no_evil: 컴퓨터공학을 전공하고 있는 박성근입니다.
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:seonggeun8259@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+<div style="display:flex; flex-direction:row;"><a href="mailto:seonggeun8259@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     
 
 ## Career
