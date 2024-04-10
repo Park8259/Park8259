@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to PARK's Github%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WelcometoPARK'sGithub%20&fontSize=90)
 
 ## Introduction👋
 안녕하세요 :hear_no_evil: 컴퓨터공학을 전공하고 있는 박성근입니다.
