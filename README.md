@@ -3,8 +3,6 @@
 
 
 ## Career
-경원고등학교 :kr: 졸업<br>
-영남대학교 :kr: 컴퓨터공학과 재학 
 
 
 ## Skills(studying)
@@ -15,9 +13,6 @@
 
 
 ## contact
-<div style="display:flex; flex-direction:row;"><a href="mailto:seonggeun8259@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    
-<!--
 
 
 
