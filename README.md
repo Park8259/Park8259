@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome%20to%20PARK's%20Github&fontSize=60)
-## Introduction👋
-안녕하세요 :hear_no_evil: <br>컴퓨터공학을 전공하고 있는 박성근입니다.<br>훌륭한 개발자가 되기 위해 열심히 공부 중입니다!
+## Introduction 
 
 
 ## Career
@@ -9,11 +8,11 @@
 
 
 ## Skills(studying)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 
 ## Project
-simple Bank service project(진행중)
+
 
 ## contact
 <div style="display:flex; flex-direction:row;"><a href="mailto:seonggeun8259@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
